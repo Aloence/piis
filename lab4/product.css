@@ -1,0 +1,34 @@
+
+
+#mainContainer{
+    display:flex;
+}
+
+
+.selectionMenu{
+    display: flex;
+    align-items: center;
+}
+
+.button{
+    border-radius: 10px;
+    border-width: 3px;
+    border-color: #0d0640;
+    width: 80px;
+    height: 40px;
+    margin-left: 10px;
+}
+img{
+    margin: 20px;
+}
+#price{
+    font-size: 30px;
+    font-weight: 700;
+    color:#0d0640;
+
+}
+#description{
+    font-weight: 600;
+    color:#0d0640;
+    font-size: 18px;
+}
