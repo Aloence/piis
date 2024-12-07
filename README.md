@@ -14,10 +14,10 @@
 <a href="https://aloence.github.io/piis/lab4/">LAB4</a>
 
 
-<a href="https://aloence.github.io/piis/lab5/">LAB5</a>
+<a href="https://aloence.github.io/piis/lab5/lab5.html">LAB5</a>
 
 
-<a href="https://aloence.github.io/piis/lab6/">LAB6</a>
+<a href="https://aloence.github.io/piis/lab6/lab5.html">LAB6</a>
 
 
 <a href="https://aloence.github.io/piis/lab7/">LAB7</a>
